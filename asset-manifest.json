@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-formulario/static/css/main.f855e6bc.css",
-    "main.js": "/react-formulario/static/js/main.ac722fce.js",
-    "static/js/453.c3f9e5e8.chunk.js": "/react-formulario/static/js/453.c3f9e5e8.chunk.js",
-    "static/media/logo.svg": "/react-formulario/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-formulario/static/css/main.36026c28.css",
+    "main.js": "/react-formulario/static/js/main.d17a2905.js",
     "index.html": "/react-formulario/index.html",
-    "main.f855e6bc.css.map": "/react-formulario/static/css/main.f855e6bc.css.map",
-    "main.ac722fce.js.map": "/react-formulario/static/js/main.ac722fce.js.map",
-    "453.c3f9e5e8.chunk.js.map": "/react-formulario/static/js/453.c3f9e5e8.chunk.js.map"
+    "main.36026c28.css.map": "/react-formulario/static/css/main.36026c28.css.map",
+    "main.d17a2905.js.map": "/react-formulario/static/js/main.d17a2905.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ac722fce.js"
+    "static/css/main.36026c28.css",
+    "static/js/main.d17a2905.js"
   ]
 }
